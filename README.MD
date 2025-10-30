@@ -2,3 +2,4 @@
 # Для запуска отчета по рейтингу достаточно python main.py --files products.csv --report average-rating 
 # А для средней цене python main.py --files products.csv --report average-price 
 # Если захотим добавить еще один отчет и быстро его запускать достаточно добавить его в REPORTS
+![ScreenShot](https://github.com/Xlebarity/Brand-Analysis/blob/main/Table%20test.png
